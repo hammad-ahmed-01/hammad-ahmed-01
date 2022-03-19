@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hammad-ahmed-01
+<h1 align="centre"> I’m Hammad Ahmed </h1>
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning computer sciences
 
