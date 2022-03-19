@@ -1,6 +1,6 @@
 <h1 align="centre"> I’m Hammad Ahmed </h1>
-**About me
-**
+<h2>About me</h2>
+
 - Student of BSCS at Nust
 
 - Mostly work with Python, Javascript and HTML/CSS
