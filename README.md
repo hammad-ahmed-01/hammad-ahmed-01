@@ -5,7 +5,7 @@
   <li> 👨‍💻 Mostly work with Python, Javascript and HTML/CSS </li>
   <li> 🌐 Learning ReactJS and OOP </li>
   <li> 💯 Interested in learning new stuff </li>
-  <li><a href="file:///C:/Users/Toshiba/Desktop/My%20Portfoloi.html">My Portfolio</a></li>
+  <li><a href="My Portfolio.html">My Portfolio</a></li>
 </ul>
 <h2> How to Approach 🗨 </h2>
 <ul>
