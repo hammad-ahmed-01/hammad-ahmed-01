@@ -1,4 +1,4 @@
-<h1 align="centre"> I’m Hammad Ahmed </h1>
+<h1 align="center"> Hello, Hammad Ahmed here  </h1>
 <h2> About me ✌ </h2>
 <ul>
   <li> 🎓 Student of BSCS at Nust </li>
