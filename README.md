@@ -14,7 +14,6 @@
   <li><a href="https://www.instagram.com/hammadjanjua620/">Instagram</a></li>
   <li><a href="https://www.facebook.com/hammad.janjua.794">Facebook</a></li>
 </ul>
-<br>
 <h2> Language and Tools </h2>
 <br>
 
