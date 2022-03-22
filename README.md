@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, Hammad Ahmed here 🧒</h1>
+<h1 align="center"> Hello, Hammad here 🧒</h1>
 
 <h2> About me ✌ </h2>
 <ul>
