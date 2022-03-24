@@ -1,5 +1,17 @@
+<div id="top"></div>
+
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+<!-- HEADING -->
 <h1 align="center"> Hello, Hammad here 🧒</h1>
 
+<!-- ABOUT ME -->
 <h2> About me ✌ </h2>
 <ul>
   <li> 🎓 Student of BSCS at Nust </li>
@@ -8,14 +20,20 @@
   <li> 💯 Interested in learning new stuff </li>
   <li><a href="My Portfolio.html"> A little intro work </a></li>
 </ul>
+
+<!-- HOW TO APPROACH --> 
 <h2> How to Approach 🗨 </h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/hammad-ahmed-4676a6225/">LinkedIn</a></li>
   <li><a href="https://www.instagram.com/hammadjanjua620/">Instagram</a></li>
   <li><a href="https://www.facebook.com/hammad.janjua.794">Facebook</a></li>
 </ul>
-<h2> Language and Tools </h2>
+
+<!-- LANG & TOOLS
+<h2> Language & Tools </h2>
 <br>
+
+<!-- PROJECT LOGOS-->
 
  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -41,8 +59,3 @@
     <br />
     
   </p>
-
-<!---
-hammad-ahmed-01/hammad-ahmed-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
