@@ -18,6 +18,7 @@
   <li> 👨‍💻 Mostly work with Python, Javascript and HTML/CSS </li>
   <li> 🌐 Learning ReactJS and OOP </li>
   <li> 💯 Interested in learning new stuff </li>
+  <!-- AN INSIGHT INTO MY PORTFOLIO -->
   <li><a href="My Portfolio.html"> A little intro work </a></li>
 </ul>
 
