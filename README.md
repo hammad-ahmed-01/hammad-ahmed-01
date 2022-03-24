@@ -29,7 +29,7 @@
   <li><a href="https://www.facebook.com/hammad.janjua.794">Facebook</a></li>
 </ul>
 
-<!-- LANG & TOOLS
+<!-- LANG & TOOLS -->
 <h2> Language & Tools </h2>
 <br>
 
