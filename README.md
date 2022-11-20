@@ -15,8 +15,8 @@
 <h2> About me ✌ </h2>
 <ul>
   <li> 🎓 Student of BSCS at Nust </li>
-  <li> 👨‍💻 Mostly work with Python, Javascript and HTML/CSS </li>
-  <li> 🌐 Learning ReactJS and OOP </li>
+  <li> 👨‍💻 Mostly work with Python, C++, OOP, MySQL, Javascript and HTML/CSS </li>
+  <li> 🌐 Learning ReactJS and Data Structure n Algorithms  </li>
   <li> 💯 Interested in learning new stuff </li>
   <!-- AN INSIGHT INTO MY PORTFOLIO -->
   <li><a href="My Portfolio.html"> A little intro work </a></li>
@@ -50,6 +50,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
  - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+ - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
 
 <br>
 
