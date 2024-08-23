@@ -15,19 +15,15 @@
 <h2> About me ✌ </h2>
 <ul>
   <li> 🎓 Student of BSCS at Nust </li>
-  <li> 👨‍💻 Mostly work with Python, C++, OOP, MySQL, Javascript and HTML/CSS </li>
+  <li> 👨‍💻 Full Stack Web Developer with expertise in MERN Stack, MEAN Stack and Laravel.  </li>
   <li> 🌐 Learning ReactJS and Data Structure n Algorithms  </li>
   <li> 💯 Interested in learning new stuff </li>
-  <!-- AN INSIGHT INTO MY PORTFOLIO -->
-  <li><a href="My Portfolio.html"> A little intro work </a></li>
 </ul>
 
 <!-- HOW TO APPROACH --> 
 <h2> How to Approach 🗨 </h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/hammad-ahmed-4676a6225/">LinkedIn</a></li>
-  <li><a href="https://www.instagram.com/hammadjanjua620/">Instagram</a></li>
-  <li><a href="https://www.facebook.com/hammad.janjua.794">Facebook</a></li>
 </ul>
 
 <!-- LANG & TOOLS -->
