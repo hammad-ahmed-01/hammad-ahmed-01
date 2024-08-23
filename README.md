@@ -16,8 +16,6 @@
 <ul>
   <li> 🎓 Student of BSCS at Nust </li>
   <li> 👨‍💻 Full Stack Web Developer with expertise in MERN Stack, MEAN Stack and Laravel.  </li>
-  <li> 🌐 Learning ReactJS and Data Structure n Algorithms  </li>
-  <li> 💯 Interested in learning new stuff </li>
 </ul>
 
 <!-- HOW TO APPROACH --> 
