@@ -77,7 +77,7 @@ If your project aligns, feel free to open an issue or DM me on LinkedIn.
 ## 📫 Contact
 
 * **Email:** [hammad\_ahmed\_123@outlook.com](mailto:hammad_ahmed_123@outlook.com)
-* **LinkedIn:** [https://www.linkedin.com/in/TODO-add-your-link](https://www.linkedin.com/in/hammad-ahmed-4676a6225/)
+* **LinkedIn:** [https://www.linkedin.com/in/hammad-ahmed-4676a6225/](https://www.linkedin.com/in/hammad-ahmed-4676a6225/)
 * **Portfolio:** [https://hammad-ahmed-portfolio.netlify.app/](https://hammad-ahmed-portfolio.netlify.app/)
 
 ---
