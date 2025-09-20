@@ -82,24 +82,6 @@ If your project aligns, feel free to open an issue or DM me on LinkedIn.
 
 ---
 
-## 📊 GitHub Stats *(Public Snapshot)*
-
-> ⚠️ Note: Most of my impactful work (client projects & startup) lives in **private repositories**. Stats below reflect only my public GitHub activity.
-
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad-ahmed-01&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammad-ahmed-01" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-ahmed-01&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### 🔖 Resume
 
 You can find my latest resume on my portfolio or contact me for a PDF copy.
